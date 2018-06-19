@@ -14,19 +14,16 @@
 	</head>
 	<body class="is-preload">
 
-		<!-- Video background -->
-		<div class="fullscreen-bg">
-			<video controls loop muted autoplay poster="images/thumbnail.jpg" class="fullscreen-bg__video">
-				<source src="videos/reel.mp4" type="videos/mp4">
-			</video>
-		</div>
-
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
 
 				<!-- Intro -->
 					<div id="intro">
-						<a href="#" class="logo"><img src="images/GHP_Logo_White.png" alt="" style="width:100px;height:100px;"/></a>
+						<!-- Video background -->
+						<video width=window.innerWidth height=window.innerHeight autoplay muted loop>
+ 							 <source src="videos/reel.mp4" type="video/mp4">
+						</video>
+						<img class = "ghp-image" src="images/GHP_Logo_White.png" alt="" style="width:200px;height:200px;"/>
 						<h1>Grouphouse Productions</h1>
 						<h2>Let's Create</h2>
 						<ul class="actions">
