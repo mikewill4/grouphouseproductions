@@ -1,5 +1,6 @@
 # grouphouseproductions
-To do:
-- Add content to bios and gear pages
-- Widen tabs
-- Change font?
+##To do:
+* Add more style to bios
+* Reset background color for contact page
+* Remove address from contact page
+* Add phone number to contact page
