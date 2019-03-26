@@ -2598,8 +2598,7 @@ input, select, textarea {
 		}
 
 		.image.fit {
-			display: block;
-			margin: 2.5rem 0;
+			display: inline-block;
 			width: 100%;
 		}
 
@@ -3605,6 +3604,7 @@ input, select, textarea {
 			z-index: -100;
 		}
 
+
 /* Nav */
 
 	#nav {
@@ -3859,7 +3859,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 2rem;
 				width: 100%;
 			}
 
@@ -3879,9 +3879,6 @@ input, select, textarea {
 					border-left-width: 0;
 				}
 
-				#main > .posts > article:nth-child(-n + 2) {
-					border-top-width: 0;
-				}
 
 			@media screen and (max-width: 980px) {
 
