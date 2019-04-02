@@ -1,4 +1,4 @@
 # Grouphouse Productions Website
 ## To do:
 * Update gear page with links
-* Add style to bios page
+* Right align images on bios page
