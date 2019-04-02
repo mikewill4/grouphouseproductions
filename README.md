@@ -1,4 +1,4 @@
-# grouphouseproductions
-##To do:
-* Add style and changes from Jake to bios page
-* Make margins on gear image smaller
+# Grouphouse Productions Website
+## To do:
+* Update gear page with links
+* Add style to bios page
