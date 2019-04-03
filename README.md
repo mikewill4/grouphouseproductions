@@ -19,3 +19,4 @@ GroupHouse Productions is a video production service that works with artists and
 * jQuery (jquery.com)
 * Scrollex (github.com/ajlkn/jquery.scrollex)
 * Responsive Tools (github.com/ajlkn/responsive-tools)
+* Travis CI (travis-ci.com)
