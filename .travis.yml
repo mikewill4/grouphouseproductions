@@ -6,8 +6,8 @@ install:
   - sudo apt-get install npm
   - sudo npm install -g markdown-link-check
 
-after_install:
+before_script:
   - npm config set strict-ssl true
 
 script:
-  - ./check_dead_links
+  - ./check_dead_links.sh
