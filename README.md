@@ -13,7 +13,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Scale header logo (currently anchored to corner)
 - [ ] Add browser tab icon
 - [ ] Place company logo somewhere on all pages
-- [ ] Change icon hover color to GHP orange
+- [x] Change icon hover color to GHP orange
 - [ ] Add social media buttons, email, and phone number to footer
 - [x] Change social media button order (YT, Insta, FB, Twitter)
 - [ ] Add meta tags
