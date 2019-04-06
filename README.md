@@ -8,11 +8,25 @@ GroupHouse Productions is a video production service that works with artists and
 * Our Team
 * Gear
 * Contact
-## Tasks
-* Fix styling for tables on gear page
-* Add logo to browser tab
-* Add Travis CI testing for dead links
-* Make sure everything scales well on mobile
+## Website Modifications 1
+- [ ] Use provided fonts
+- [ ] Scale header logo (currently anchored to corner)
+- [ ] Add browser tab icon
+- [ ] Place company logo somewhere on all pages
+- [ ] Change icon hover color to GHP orange
+- [ ] Add social media buttons, email, and phone number to footer
+- [ ] Change social media button order (YT, Insta, FB, Twitter)
+- [ ] Add meta tags
+- [ ] Add google analytics code
+- [ ] Replace thumbnail images with cropped images
+- [ ] Add alt text to images
+- [ ] Add new video category for "Gear Reviews"
+- [ ] Link videos to playlists
+- [ ] Open links in new tabs
+- [ ] Test changing background to black
+- [ ] Fix video alignment
+- [ ] Fix styling for tables on gear page
+- [ ] Make sure everything scales well on mobile
 ## Credits
 * Template: html5up.net | @ajlkn | aj@lkn.io
 * Icons: Font Awesome (fontawesome.io)
