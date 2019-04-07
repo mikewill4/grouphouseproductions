@@ -11,7 +11,7 @@ GroupHouse Productions is a video production service that works with artists and
 ## Website Modifications: Round #1
 - [ ] Use provided fonts
 - [ ] Scale header logo (currently anchored to corner)
-- [ ] Add browser tab icon
+- [x] Add browser tab icon
 - [ ] Place company logo somewhere on all pages
 - [x] Change icon hover color to GHP orange
 - [x] Add social media buttons, email, and phone number to footer
@@ -27,7 +27,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Fix video alignment
 - [ ] Fix styling for tables on gear page
 - [ ] Make sure everything scales well on mobile
-- [ ] Remove links on header text
+- [x] Fix links on header text
 ## Credits
 * Template: html5up.net | @ajlkn | aj@lkn.io
 * Icons: Font Awesome (fontawesome.io)
