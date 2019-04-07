@@ -22,7 +22,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Add alt text to images
 - [x] Add new video category for "Gear Reviews"
 - [x] Link videos to playlists
-- [ ] Open links in new tabs
+- [x] Open links in new tabs
 - [ ] Test changing background to black
 - [ ] Fix video alignment
 - [ ] Fix styling for tables on gear page
