@@ -17,7 +17,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [x] Add social media buttons, email, and phone number to footer
 - [x] Change social media button order (YT, Insta, FB, Twitter)
 - [x] Add meta tags
-- [ ] Add google analytics code
+- [x] Add google analytics code
 - [x] Replace thumbnail images with cropped images
 - [x] Add alt text to images
 - [x] Add new video category for "Gear Reviews"
@@ -28,6 +28,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Fix styling for tables on gear page
 - [ ] Make sure everything scales well on mobile
 - [x] Fix links on header text
+- [ ] Add tests to travis ci for javascript errors
 ## Credits
 * Template: html5up.net | @ajlkn | aj@lkn.io
 * Icons: Font Awesome (fontawesome.io)
