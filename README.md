@@ -19,7 +19,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Add meta tags
 - [ ] Add google analytics code
 - [x] Replace thumbnail images with cropped images
-- [ ] Add alt text to images
+- [x] Add alt text to images
 - [x] Add new video category for "Gear Reviews"
 - [x] Link videos to playlists
 - [x] Open links in new tabs
