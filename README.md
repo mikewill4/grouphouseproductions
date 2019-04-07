@@ -8,7 +8,7 @@ GroupHouse Productions is a video production service that works with artists and
 * Our Team
 * Gear
 * Contact
-## Website Modifications 1
+## Website Modifications: Round #1
 - [ ] Use provided fonts
 - [ ] Scale header logo (currently anchored to corner)
 - [ ] Add browser tab icon
@@ -27,6 +27,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Fix video alignment
 - [ ] Fix styling for tables on gear page
 - [ ] Make sure everything scales well on mobile
+- [ ] Remove links on header text
 ## Credits
 * Template: html5up.net | @ajlkn | aj@lkn.io
 * Icons: Font Awesome (fontawesome.io)
