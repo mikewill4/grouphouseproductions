@@ -18,10 +18,10 @@ GroupHouse Productions is a video production service that works with artists and
 - [x] Change social media button order (YT, Insta, FB, Twitter)
 - [ ] Add meta tags
 - [ ] Add google analytics code
-- [ ] Replace thumbnail images with cropped images
+- [x] Replace thumbnail images with cropped images
 - [ ] Add alt text to images
-- [ ] Add new video category for "Gear Reviews"
-- [ ] Link videos to playlists
+- [x] Add new video category for "Gear Reviews"
+- [x] Link videos to playlists
 - [ ] Open links in new tabs
 - [ ] Test changing background to black
 - [ ] Fix video alignment
