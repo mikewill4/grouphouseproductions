@@ -4457,7 +4457,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#copyright {
-				margin: 4rem auto;
+				margin: 2rem 4rem 1rem 4rem;
 			}
 
 		}
@@ -4472,6 +4472,103 @@ input, select, textarea {
 			}
 
 				#copyright ul li:first-child {
+					margin-top: 0;
+				}
+
+		}
+
+	#copyright-icons {
+		color: #ffffff;
+		position: relative;
+		color: rgba(255, 255, 255, 0.25);
+		cursor: default;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-size: 0.8rem;
+		font-weight: 900;
+		letter-spacing: 0.075em;
+		line-height: 1.5;
+		text-align: center;
+		text-transform: uppercase;
+		width: calc(100% - 4rem);
+		max-width: 72rem;
+		z-index: 2;
+	}
+
+		#copyright-icons input, #copyright-icons select, #copyright-icons textarea {
+			color: #ffffff;
+		}
+
+		#copyright-icons a {
+			color: #ffffff;
+			border-bottom-color: rgba(255, 255, 255, 0.5);
+		}
+
+			#copyright-icons a:hover {
+				border-bottom-color: transparent;
+				color: #F15929 !important;
+			}
+
+		#copyright-icons strong, #copyright-icons b {
+			color: #ffffff;
+		}
+
+		#copyright-icons h1, #copyright-icons h2, #copyright-icons h3, #copyright-icons h4, #copyright-icons h5, #copyright-icons h6 {
+			color: #ffffff;
+		}
+
+		#copyright-icons blockquote {
+			border-left-color: #ffffff;
+		}
+
+		#copyright-icons code {
+			background: rgba(255, 255, 255, 0.075);
+			border-color: #ffffff;
+		}
+
+		#copyright-icons hr {
+			border-bottom-color: #ffffff;
+		}
+
+		#copyright-icons a {
+			color: inherit;
+			border-bottom-color: inherit;
+		}
+
+		#copyright-icons ul {
+			list-style: none;
+			margin: 0;
+			padding-left: 0;
+		}
+
+			#copyright-icons ul li {
+				margin-left: 1rem;
+				padding-left: 1rem;
+			}
+
+				#copyright-icons ul li:first-child {
+					border-left: 0;
+					margin-left: 0;
+					padding-left: 0;
+				}
+
+		@media screen and (max-width: 1280px) {
+
+			#copyright-icons {
+				margin: 1rem 4rem 2rem 4rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#copyright-icons ul li {
+				border-left: 0;
+				margin: 1rem 0 0 0;
+				padding-left: 0;
+				display: block;
+			}
+
+				#copyright-icons ul li:first-child {
 					margin-top: 0;
 				}
 
