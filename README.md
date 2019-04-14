@@ -29,6 +29,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [ ] Make sure everything scales well on mobile
 - [x] Fix links on header text
 - [ ] Add tests to travis ci for javascript errors
+- [ ] Change browser tab icon to black logo with white bg
 ## Credits
 * Template: html5up.net | @ajlkn | aj@lkn.io
 * Icons: Font Awesome (fontawesome.io)
