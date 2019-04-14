@@ -30,6 +30,7 @@ GroupHouse Productions is a video production service that works with artists and
 - [x] Fix links on header text
 - [ ] Add tests to travis ci for javascript errors
 - [x] Change browser tab icon to black logo with white bg
+- [ ] Fix alignment in footer
 ## Website Modifications: Round #2
 - [ ] TBD
 ## Credits
