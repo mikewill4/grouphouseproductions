@@ -4484,7 +4484,7 @@ input, select, textarea {
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
-		font-family: fontawesome;
+		font-family: "Montserrat";
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4590,7 +4590,7 @@ input, select, textarea {
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		font-family: "Montserrat";
+		font-family: fontawesome;
 		font-size: 0.9rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4602,7 +4602,7 @@ input, select, textarea {
 		#navPanelToggle:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: "Montserrat";
+			font-family: fontawesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -4716,7 +4716,7 @@ input, select, textarea {
 			#navPanel .close:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: "Montserrat";
+				font-family: fontawesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
