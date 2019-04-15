@@ -4678,7 +4678,7 @@ input, select, textarea {
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					font-family: "Montserrat";
+					font-family: fontawesome;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
