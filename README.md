@@ -9,7 +9,7 @@ GroupHouse Productions is a video production service that works with artists and
 * Gear
 * Contact
 ## Website Modifications: Round #1
-- [ ] Use provided fonts
+- [x] Use provided fonts
 - [ ] Scale header logo (currently anchored to corner)
 - [x] Add browser tab icon
 - [ ] Place company logo somewhere on all pages
