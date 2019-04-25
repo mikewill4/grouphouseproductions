@@ -3941,6 +3941,35 @@ input, select, textarea {
 
 		}
 
+/* Gear tables */
+	#table_gear {
+		display: block;
+		width: 100%;
+	}
+
+	#table_gear td {
+		display: inline-block;
+		padding: 50px;
+		vertical-align: top;
+		width: 50%;
+	}
+
+		@media screen and (max-width: 890px) {
+			#table_gear {
+				display: block;
+				width: 100%;
+			}
+
+			#table_gear td {
+				display: inline-block;
+				padding: 50px;
+				vertical-align: top;
+				width: 50%;
+			}
+		}
+
+
+
 /* Footer */
 
 	#footer {
@@ -4566,7 +4595,7 @@ input, select, textarea {
 				border-left: 0;
 				margin: 1rem 0 0 0;
 				padding-left: 0;
-				display: block;
+				display: inline-block;
 			}
 
 				#copyright-icons ul li:first-child {
