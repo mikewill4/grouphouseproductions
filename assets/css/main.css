@@ -3578,11 +3578,17 @@ input, select, textarea {
 
 		}
 
-		/* Added GHP logo */
+		/* GHP logo */
 		.ghp-image {
-				max-width: 20%;
-				height: auto;
-				float: left;
+			max-width: 20%;
+			height: auto;
+			float: left;
+		}
+
+		.ghp-image-other {
+			max-width: 20%;
+			height: auto;
+			float: left;
 		}
 
 		.ghp-bg {
@@ -3599,6 +3605,10 @@ input, select, textarea {
 			left: 0px;
 			top: 0px;
 			z-index: -100;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
 		}
 
 
