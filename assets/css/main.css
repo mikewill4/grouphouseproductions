@@ -3596,7 +3596,9 @@ input, select, textarea {
 		.ghp-image-other {
 			max-width: 10%;
 			height: auto;
-			float: left;
+			position: absolute;
+			top: 0.75rem;
+			left: 0.75rem;
 		}
 
 		/* Altering video style */
