@@ -2784,6 +2784,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		padding-top: 1;
 	}
 
 		ul.icons li {
@@ -4593,7 +4594,6 @@ input, select, textarea {
 
 			#copyright-icons ul li {
 				border-left: 0;
-				margin: 1rem 0 0 0;
 				padding-left: 0;
 				display: inline-block;
 			}
