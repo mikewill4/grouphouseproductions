@@ -4419,7 +4419,7 @@ input, select, textarea {
 		line-height: 1.5;
 		text-align: center;
 		text-transform: uppercase;
-		margin: 4rem auto 8rem auto;
+		margin: 4rem auto auto auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -4488,7 +4488,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#copyright {
-				margin: 2rem 4rem 1rem 4rem;
+				margin: 2rem auto 1rem auto;
 			}
 
 		}
@@ -4497,7 +4497,7 @@ input, select, textarea {
 
 			#copyright ul li {
 				border-left: 0;
-				margin: 1rem 0 0 0;
+				margin: 1rem auto 0 auto;
 				padding-left: 0;
 				display: block;
 			}
@@ -4520,7 +4520,7 @@ input, select, textarea {
 		line-height: 1.5;
 		text-align: center;
 		text-transform: uppercase;
-		margin: auto;
+		margin: 2rem auto 4rem auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -4586,7 +4586,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#copyright-icons {
-				margin: 1rem 4rem 2rem 4rem;
+				margin: 1rem auto 2rem auto;
 			}
 
 		}
