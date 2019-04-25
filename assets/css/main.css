@@ -3580,10 +3580,9 @@ input, select, textarea {
 
 		/* Added GHP logo */
 		.ghp-image {
-    		position: absolute;
-    		left: 100px;
-    		top: 100px;
-    		z-index: -1;
+				max-width: 20%;
+				height: auto;
+				float: left;
 		}
 
 		.ghp-bg {
