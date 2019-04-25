@@ -26,8 +26,8 @@ GroupHouse Productions is a video production service that works with artists and
 - [x] Link videos to playlists
 - [x] Open links in new tabs
 - [x] Test changing background to black
-- [ ] Fix styling for tables on gear page
-- [ ] Make sure everything scales well on mobile
+- [x] Fix styling for tables on gear page
+- [ ] Fix bios to scale on mobile
 - [x] Fix links on header text
 - [x] Change browser tab icon to black logo with white bg
 - [x] Fix alignment in footer
