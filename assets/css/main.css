@@ -3952,32 +3952,29 @@ input, select, textarea {
 		}
 
 /* Gear tables */
-	#table_gear {
-		display: block;
+	#table_gear_outer {
+		align: center;
+		table-layout: fixed;
 		width: 100%;
 	}
 
-	#table_gear td {
-		display: inline-block;
-		padding: 50px;
-		vertical-align: top;
-		width: 50%;
-	}
-
-		@media screen and (max-width: 890px) {
-			#table_gear {
-				display: block;
-				width: 100%;
-			}
-
-			#table_gear td {
-				display: inline-block;
-				padding: 50px;
-				vertical-align: top;
-				width: 50%;
-			}
+		#table_gear_outer td {
+			padding: 50px;
 		}
 
+			@media screen and (max-width: 600px) {
+				#table_gear_outer table,thead,tbody,th,td,tr {
+					display: block;
+					width: 100%;
+				}
+			}
+
+	#table_gear_inner {
+		text-align: center;
+	}
+		#table_gear_inner td {
+			padding: 10px;
+		}
 
 
 /* Footer */
