@@ -3585,18 +3585,18 @@ input, select, textarea {
 			float: left;
 		}
 
+			@media screen and (max-width: 980px) {
+				.ghp-image {
+					position: fixed;
+					top: 0.75rem;
+					left: 0.75rem;
+				}
+			}
+
 		.ghp-image-other {
-			max-width: 20%;
+			max-width: 10%;
 			height: auto;
 			float: left;
-		}
-
-		.ghp-bg {
-			position: absolute;
-			left: 0px;
-    		top: 0px;
-			z-index: 0;
-			background-image: "../../images/businesscards.jpg";
 		}
 
 		/* Altering video style */
