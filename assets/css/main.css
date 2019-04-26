@@ -3807,6 +3807,16 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			#main > .post > .img-right {
+				float: right;
+				margin-left: 36px;
+			}
+
+			#main > .post > .img-left {
+				float: left;
+				margin-right: 36px;
+			}
+
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
@@ -3832,6 +3842,27 @@ input, select, textarea {
 						margin: 0 0 1.5rem 0;
 					}
 
+			}
+
+			@media screen and (max-width: 700px) {
+
+				#main > .post {
+					padding: 4rem 2rem 2rem 2rem ;
+				}
+
+					#main > .post > .img-right, #main > .post > .img-left {
+						float: none;
+						display: block;
+						width: 50%;
+						padding-bottom: 2rem;
+						margin-left: auto;
+						margin-right: auto;
+					}
+
+					#main > .post > h1, #main > .post > h2, #main > .post > h3 {
+						line-height: 1;
+						text-align: center;
+					}
 			}
 
 		#main > .posts {
